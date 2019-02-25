@@ -22,5 +22,13 @@
         </plugins>
     </build>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/io.micronaut/micronaut-runtime -->
+        <dependency>
+            <groupId>io.micronaut</groupId>
+            <artifactId>micronaut-runtime</artifactId>
+            <version>1.0.4</version>
+        </dependency>
+    </dependencies>
 
 </project>
